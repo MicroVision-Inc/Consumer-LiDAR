@@ -1,0 +1,6 @@
+[submodule "mvis_cldr_sdk"]
+	path = mvis_cldr_sdk
+	url = https://github.com/MicroVision-Inc/mvis_cldr_sdk.git
+[submodule "mv_cldr_sdk"]
+	path = mv_cldr_sdk
+	url = https://github.com/MicroVision-Inc/mv_cldr_sdk.git
